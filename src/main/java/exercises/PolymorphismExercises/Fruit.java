@@ -16,5 +16,4 @@ public class Fruit {
         return calories;
     }
 
-
 }
