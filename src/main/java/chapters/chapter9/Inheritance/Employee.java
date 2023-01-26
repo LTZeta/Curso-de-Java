@@ -1,6 +1,6 @@
 package chapters.chapter9.Inheritance;
 
-public class Employee extends chapters.chapter9.Inheritance.Person {
+public class Employee extends Person {
 
     private String employeeID;
     private String title;
